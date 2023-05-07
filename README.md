@@ -7,3 +7,4 @@ Vietnes priekšgala kods ir atvērtā koda kods. Laipni lūdzam, lai palīdzētu
 * [priekšgala kods](https://github.com/xxai-art/web)
 * [Valodu pakotnes visai vietnei](https://github.com/xxai-art/web/tree/main/i18n)
 * [Valodu pakotnes pieteikšanās moduļiem](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Vietnes daudzvalodu dokumentācija](https://github.com/xxai-doc)
